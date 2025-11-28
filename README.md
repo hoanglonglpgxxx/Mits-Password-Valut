@@ -14,5 +14,5 @@ Zero-Knowledge: Extension không bao giờ lưu Master Password vào ổ cứng.
 https://www.flaticon.com/search?word=account
 
 
-
+https://www.figma.com/design/9ID5XVsOlG71InncKjS9iR/Untitled?node-id=0-1&p=f&t=Laucg89tencZ5MG8-0
 https://gemini.google.com/app/53a1e869c7974e5c
