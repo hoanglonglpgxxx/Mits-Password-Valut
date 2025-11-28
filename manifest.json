@@ -1,0 +1,17 @@
+{
+    "name": "Mits Password Valut",
+    "description": "My own Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "storage",
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "assests/img/default_icon.png"
+    },
+    "background": {
+        "service_worker": "popup.js"
+    }
+}
